@@ -1,6 +1,6 @@
 # sub_bot
 ## Summary
-* twiiterbot
+* Twitterbot
 * 他のユーザーのツイートからツイート生成
 ## Usage
-* `./sub_title.sh`で記号
+* `./sub_title.sh`で起動
